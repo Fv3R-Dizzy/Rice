@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hack+the+system+not+just+to+break+it%2C+but+to+understand+it.;Every+shell+is+a+story+—+I+just+write+them+better.;Secure+the+system+or+someone+else+will+own+it.;Write+code.+Break+code.+Protect+code.+Repeat.;Learning+never+stops%2C+even+when+the+target+is+down." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hack+the+system+not+just+to+break+it%2C+but+to+understand+it.;Every+shell+is+a+story+—+I+just+write+them+better.;Secure+the+system+or+someone+else+will+own+it.;Write+code.+Break+code.+Protect+code.+Repeat.;Learning+never+stops%2C+even+when+the+target+is+down." alt="Typing animation by Neirra Rubby" />
 </p>
 
 ---
