@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <h2>💻 Tech Stack</h2>
+  <h2>Tech Stack</h2>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <h2>📚 Currently Learning</h2>
+  <h2>Currently Learning</h2>
 </p>
 
 <p align="center">
@@ -67,11 +67,17 @@
 ---
 
 <p align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>GitHub Stats</h2>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Fv3R-Dizzy&theme=dark&hide_border=false"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fv3R-Dizzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Fv3R-Dizzy&theme=dark&hide_border=false" alt="Neirra's GitHub Streak Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fv3R-Dizzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Neirra's Top Languages"/>
+    </td>
+  </tr>
+</table>
+
