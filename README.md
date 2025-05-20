@@ -1,17 +1,20 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0e/8b/d2/0e8bd2e9df9ffaf25676edbbdb3ac410.gif" height="180"/>
-</p>
-
-<p align="center">
-  <h1>👋 Hi, I'm Neirra Rubby</h1>
-  <small>
-    I'm currently working at <strong>Victory Limited</strong> as a Cyber Security Specialist,<br/>
-    building and developing Minecraft SMP, RedM, and FiveM Dev servers as a side passion,<br/>
-    and most importantly — I never stop learning.<br/>
-    Whether it's a new exploit, a piece of code, or just life itself,<br/>
-    I'm here to evolve, every single day... until the very end!
-  </small>
-</p>
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://i.pinimg.com/originals/0e/8b/d2/0e8bd2e9df9ffaf25676edbbdb3ac410.gif" height="200"/>
+    </td>
+    <td>
+      <h1>👋 Hi, I'm Neirra Rubby</h1>
+      <small>
+        I'm currently working at <strong>Victory Limited</strong> as a Cyber Security Specialist,<br/>
+        building and developing Minecraft SMP, RedM, and FiveM Dev servers as a side passion,<br/>
+        and most importantly — I never stop learning.<br/>
+        Whether it's a new exploit, a piece of code, or just life itself,<br/>
+        I'm here to evolve, every single day... until the very end!
+      </small>
+    </td>
+  </tr>
+</table>
 
 ---
 
