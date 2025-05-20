@@ -73,10 +73,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Fv3R-Dizzy&theme=dark&hide_border=false" width="200"  alt="Neirra's GitHub Streak Stats"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Fv3R-Dizzy&theme=dark&hide_border=false" width="300"  alt="Neirra's GitHub Streak Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fv3R-Dizzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" alt="Neirra's Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fv3R-Dizzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" alt="Neirra's Top Languages"/>
     </td>
   </tr>
 </table>
