@@ -17,6 +17,66 @@
 </table>
 
 ---
+<div align="center">
+  <h3><span id="typewriter"></span></h3>
+</div>
+
+<script>
+  const quotes = [
+    "Hack the system not just to break it, but to understand it.",
+    "Every shell is a story — I just write them better.",
+    "Learning never stops, even when the target is down.",
+    "Secure the system or someone else will own it.",
+    "Write code. Break code. Protect code. Repeat."
+  ];
+
+  let i = 0;
+  let j = 0;
+  let currentQuote = [];
+  let isDeleting = false;
+  let isEnd = false;
+
+  function loop() {
+    document.getElementById("typewriter").innerHTML = currentQuote.join("");
+
+    if (i < quotes.length) {
+      if (!isDeleting && j <= quotes[i].length) {
+        currentQuote.push(quotes[i][j]);
+        j++;
+        document.getElementById("typewriter").innerHTML = currentQuote.join("");
+      }
+
+      if (isDeleting && j <= quotes[i].length) {
+        currentQuote.pop(quotes[i][j]);
+        j--;
+        document.getElementById("typewriter").innerHTML = currentQuote.join("");
+      }
+
+      if (j == quotes[i].length) {
+        isEnd = true;
+        isDeleting = true;
+      }
+
+      if (isDeleting && j === 0) {
+        currentQuote = [];
+        isDeleting = false;
+        i++;
+        if (i === quotes.length) {
+          i = 0;
+        }
+      }
+    }
+    const speedUp = Math.random() * (80 - 50) + 50;
+    const normalSpeed = Math.random() * (180 - 100) + 100;
+    const time = isEnd ? 2000 : isDeleting ? speedUp : normalSpeed;
+    isEnd = false;
+    setTimeout(loop, time);
+  }
+
+  loop();
+</script>
+
+---
 
 <p align="center">
   <h2>💻 Tech Stack</h2>
