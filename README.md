@@ -33,6 +33,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OSCP-E4405F?style=for-the-badge&logo=offensive%20security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNS%20Poisoning-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Reverse%20Engineering-black?style=for-the-badge&logo=protonmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Exploitation-8B0000?style=for-the-badge&logo=Tor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Binary%20Analysis-333333?style=for-the-badge&logo=gnubash&logoColor=white"/>
