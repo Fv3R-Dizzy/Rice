@@ -1,14 +1,17 @@
 <p align="center">
+  <img src="https://i.pinimg.com/originals/0e/8b/d2/0e8bd2e9df9ffaf25676edbbdb3ac410.gif" width="100%"/>
+</p>
+
+<p align="center">
   <h1>👋 Hi, I'm Neirra Rubby</h1>
-  <p>
+  <small>
     I'm currently working at <strong>Victory Limited</strong> as a Cyber Security Specialist,<br/>
-    building and developing Minecraft SMP, RedM, FiveM Dev servers as a side passion,<br/>
+    building and developing Minecraft SMP, RedM, and FiveM Dev servers as a side passion,<br/>
     and most importantly — I never stop learning.<br/>
     Whether it's a new exploit, a piece of code, or just life itself,<br/>
     I'm here to evolve, every single day... until the very end!
-  </p>
+  </small>
 </p>
-
 
 ---
 
