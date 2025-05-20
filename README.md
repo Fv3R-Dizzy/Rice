@@ -6,7 +6,7 @@
     <td>
       <h1> Hi, I'm Santana Michigan</h1>
       <small>
-        I'm currently working at <strong>Victory Limited</strong> as a Cyber Security Specialist,<br/>
+        I'm currently working at <strong>Urban IT Limited</strong> as a Cyber Security Specialist,<br/>
         building and developing Minecraft SMP, RedM, and FiveM Dev servers as a side passion,<br/>
         and most importantly — I never stop learning.<br/>
         Whether it's a new exploit, a piece of code, or just life itself,<br/>
