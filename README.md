@@ -65,8 +65,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fv3R-Dizzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Fv3R-Dizzy&theme=dark&hide_border=false"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fv3R-Dizzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
